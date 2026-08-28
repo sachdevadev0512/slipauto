@@ -30,6 +30,7 @@ const statusText = document.getElementById('statusText');
 
 // ===== COMPANY → TEMPLATE MAPPING =====
 const companyTemplates = {
+    'MS': 'MS.png',
     'HARI MEDI PHARMA': 'HARI MEDI PHARMA.png',
     'ALIVIRA': 'ALIVIRA.png',
     'GANPATI': 'GANPATI.png',
@@ -40,6 +41,12 @@ const companyTemplates = {
 // ===== COMPANY OVERLAY POSITIONS (PIXEL-MEASURED, PERCENTAGE BASED) =====
 // top% is shifted 1.5% above the measured header baseline so text sits ABOVE dotted lines
 const companyOverlayPositions = {
+    'MS': {
+        pm: { top: '49.2%', left: '19.5%' },
+        cases: { top: '49.2%', left: '65.0%' },
+        station: { top: '67.8%', left: '20.0%' },
+        transport: { top: '84.2%', left: '25.0%' }
+    },
     'HARI MEDI PHARMA': {
         pm: { top: '30.5%', left: '32.3%' },
         cases: { top: '40.2%', left: '42.3%' },

@@ -303,6 +303,16 @@ body {
 .slip-template-img .overlay-transport,
 .print-slip .overlay-transport { top: 68.4%; left: 28.5%; }
 
+/* ---- MS ---- */
+.slip-template-img[data-company="MS"] .overlay-pmhmp,
+.print-slip[data-company="MS"] .overlay-pmhmp { top: 49.2%; left: 19.5%; }
+.slip-template-img[data-company="MS"] .overlay-cases,
+.print-slip[data-company="MS"] .overlay-cases { top: 49.2%; left: 65.0%; }
+.slip-template-img[data-company="MS"] .overlay-station,
+.print-slip[data-company="MS"] .overlay-station { top: 67.8%; left: 20.0%; }
+.slip-template-img[data-company="MS"] .overlay-transport,
+.print-slip[data-company="MS"] .overlay-transport { top: 84.2%; left: 25.0%; }
+
 /* ---- HARI MEDI PHARMA ---- */
 .slip-template-img[data-company="HARI MEDI PHARMA"] .overlay-pmhmp,
 .print-slip[data-company="HARI MEDI PHARMA"] .overlay-pmhmp { top: 30.5%; left: 32.3%; }

@@ -1,16 +1,17 @@
 # Carton Dispatch Slip Generator (Multi-Company)
 
-An automated web application for generating physical carton packing/dispatch slips across 5 pharmaceutical companies with exact **100 mm × 95 mm** slip dimensions and **6 slips per A4 sheet (2 columns × 3 rows)** printing layout.
+An automated web application for generating physical carton packing/dispatch slips across 6 pharmaceutical companies with exact **100 mm × 95 mm** slip dimensions and **6 slips per A4 sheet (2 columns × 3 rows)** printing layout.
 
 ---
 
 ## 🏢 Supported Companies & Templates
 
-1. **HARI MEDI PHARMA PVT. LTD.**
-2. **ALIVIRA ANIMAL HEALTH LTD.**
-3. **GANPATI ENTERPRISES**
-4. **NUTRICA INTERNATIONAL PVT. LTD.**
-5. **WOCKHARDT LTD.**
+1. **MS**
+2. **HARI MEDI PHARMA PVT. LTD.**
+3. **ALIVIRA ANIMAL HEALTH LTD.**
+4. **GANPATI ENTERPRISES**
+5. **NUTRICA INTERNATIONAL PVT. LTD.**
+6. **WOCKHARDT LTD.**
 
 ---
 
